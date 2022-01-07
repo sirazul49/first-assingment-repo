@@ -1,0 +1,106 @@
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 50%;
+}
+.ami{
+    color: brown;
+}
+.link-button{
+    text-decoration: none;
+    background-color:orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+.mission-area{
+    display: flex
+}
+
+.div1{
+height: 100%;
+width: 30%;
+background-color: turquoise;
+padding: 20px;
+background-image: url(images/illustrators/illustrator-1.png);
+background-position: top;
+margin: 20px;
+background-repeat: no-repeat;
+margin: 20px 25px;
+border-radius: 5%;
+background-size: 50%;
+
+}
+.div2{
+    height: 100%;
+    width: 30%;
+    background-color:cyan;
+    padding: 20px;
+    background-image: url(images/illustrators/illustrator-2.png);
+background-position: top;
+margin: 20px;
+background-repeat: no-repeat;
+margin: 20px 25px;
+border-radius: 5%;
+background-size: 50%;
+
+
+}
+.div3{
+    height: 100%;
+    width: 30%;
+    background-color: orchid;
+    padding: 20px;
+    background-image: url(images/illustrators/illustrator-3.png);
+    background-position: top;
+    margin: 20px;
+    background-repeat: no-repeat;
+    margin: 20px 25px;
+    border-radius: 5%;
+    background-size: 50%;
+
+
+}
+.div4 img{
+width: 50%;
+}
+.anchor{
+    text-decoration: none;
+    background-color:orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+    
+}
+.div6 img{
+    width: 50%;
+    margin: 20px;
+    margin-top: 10px;
+}
+.div7{
+    width: 50%;
+    padding:5% ;
+    margin: 10px ;
+}
+.h1{
+    color: orchid;
+}
+
+footer{
+    background-color: black;
+    
+    height: 170px;
+}
+footer{
+    text-align: center;
+    font-size: 4rem;
+    color: burlywood;
+}
+.footer{
+    color: tomato;
+}
